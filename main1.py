@@ -6,4 +6,5 @@ for person in people:
     if person[1] > max_old_people[1]:
         max_old_people = person
 
+
 print(max_old_people)
